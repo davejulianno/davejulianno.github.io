@@ -17,6 +17,7 @@ self.addEventListener('install', function(event) {
           '/src/images/card/9_of_spades.png',
           '/src/images/card/10_of_spades.png',
           '/src/images/card/14_of_hearts.png',
+          '/src/images/icon_96.png',
           '/src/images/icon_192.png',
           '/src/images/icon_512.png',
           '/favicon.ico',
